@@ -7,7 +7,7 @@
     "vsvnetSubnet1Name": "Vssub-1",
     "vsvnetSubnet1Prefix": "10.20.0.0/24",
     "vsvnetSubnet2Name": "Vssub-2",
-    "vsvnetSubnet2Prefix": "10.20.1.0/24"},
+    "vsvnetSubnet2Prefix": "10.20.2.0/24"},
   "resources": [
     {
       "name": "vsvnet",
