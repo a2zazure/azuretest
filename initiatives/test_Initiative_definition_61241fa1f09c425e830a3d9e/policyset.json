@@ -1,0 +1,25 @@
+{
+ "properties": {
+  "displayName": "test_Initiative_definition",
+  "policyType": "Custom",
+  "metadata": {
+   "createdBy": "22c40b06-cd6b-437e-a656-940c860e685d",
+   "createdOn": "2021-10-04T14:16:24.4222862Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "parameters": {},
+  "policyDefinitions": [
+   {
+    "policyDefinitionReferenceId": "TagVM4mARM_1",
+    "policyDefinitionId": "/subscriptions/68bf48a1-5257-444a-af38-dbe2c36254d8/providers/Microsoft.Authorization/policyDefinitions/TagVM4mARM",
+    "parameters": {},
+    "groupNames": []
+   }
+  ],
+  "policyDefinitionGroups": []
+ },
+ "id": "/subscriptions/68bf48a1-5257-444a-af38-dbe2c36254d8/providers/Microsoft.Authorization/policySetDefinitions/61241fa1f09c425e830a3d9e",
+ "type": "Microsoft.Authorization/policySetDefinitions",
+ "name": "61241fa1f09c425e830a3d9e"
+}
